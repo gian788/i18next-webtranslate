@@ -95,13 +95,13 @@ function($, _) {
                     test: 'provare',
                     filterKeys: 'filtrare chiave',
                     filterValue: 'filtrare valore',
-                    compare: 'cparagonare a',
+                    compare: 'paragonare a',
                     download: 'scaricare',
                     th: {
                         key: 'chiave',
                         specificValue: 'valore specificato',
                         displayedValue: 'valore indicato',
-                        compareValue: 'cparagonare valore'
+                        compareValue: 'paragonare valore'
                     },
                     resourceItem: {
                         compare: 'paragonare',
